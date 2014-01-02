@@ -1,4 +1,5 @@
 vim
 ===
 
-vim rc files and configurations
+My standard vim rc files and configs.
+
